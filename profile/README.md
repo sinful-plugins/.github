@@ -1,4 +1,4 @@
-# sinful plugins
+# Sinful Plugins
 Source available Ark: Survival Evolved server plugins.
 
 # Currently available plugins
