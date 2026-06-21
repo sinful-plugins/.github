@@ -3,7 +3,8 @@ Free Ark: Survival Evolved server plugins.
 
 > [!NOTE]
 > Sinful Plugins (by Acedia) takes no liability if these plugins cause permanent data loss of the server.<br>
-> Plugins are provided as is with no guarantee of support or liability<br>
+> Plugins are provided as is with no guarantee of support or liability.<br>
+> Plugins are tested on v3.56 of AseApi and pre-aquatica servers.
 
 # Currently available plugins
 - [**Lexicon**](https://github.com/sinful-plugins/aseapi-Lexicon) - Manage simple message reply commands and command aliases thru one plugin
